@@ -1,0 +1,5 @@
+{
+  "name": "AI Rap Lyricist",
+  "description": "Generate high-quality, full-length rap lyrics from any idea. Includes an option for explicit language, ensuring the output matches the desired tone. Lyrics are crafted to be between 2,500 and 2,999 characters.",
+  "requestFramePermissions": []
+}
